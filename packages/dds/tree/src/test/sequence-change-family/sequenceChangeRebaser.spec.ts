@@ -33,7 +33,7 @@ function asForest(markList: T.MarkList): SequenceChangeset {
     };
 }
 
-describe("SequenceChangeFamily", () => {
+describe("SequenceChangeFamilyd", () => {
     /**
      * This test simulates rebasing over an do-undo pair.
      */
